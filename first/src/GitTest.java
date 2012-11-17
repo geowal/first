@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.println("neues Projekt mit Git");
 		System.out.println("Noch ein Test");
 		System.out.println("nochmals");
+		System.out.println("neuer");
 	}
 
 }
