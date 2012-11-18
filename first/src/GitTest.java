@@ -9,6 +9,7 @@ public class GitTest {
 		System.out.println("Noch ein Test");
 		System.out.println("nochmals");
 		System.out.println("neuer");
+		System.out.println("Test im geowal Rep");
 	}
 
 }
